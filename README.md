@@ -1,7 +1,6 @@
 Virtual Try-On Network (VTON)
-**Role:** Lead Architect & Project Manager
-
 ---
+**Role:** Lead Architect & Project Manager
 
 ### Technical Archive (2023 - 2026)
 This repository serves as a technical archive of the system developed in 2022-2023. It is published here to document the system architecture and generative AI implementation.
