@@ -5,7 +5,7 @@
 ---
 
 ### Project Retrospective (2023 - 2026)
-This repository is a technical archive of a 2D Image Synthesis system developed between 2022 and 2023. The project was recognized as a National Finalist at the ICT Awards 2023. This archive documents the system architecture and generative AI implementation for academic and portfolio review.
+This repository is a technical archive of a 2D Image Synthesis system developed between 2022 and 2023. The complete project,named Dreshion was recognized as a National Finalist at the ICT Awards 2023. This archive documents the system architecture and generative AI implementation for academic and portfolio review.
 
 **Confidentiality Note:**  
 To protect proprietary logic, pre-trained model weights (.pth) and full training datasets have been excluded from this public archive. Technical proof of performance is provided in the documentation.
@@ -40,10 +40,6 @@ The project, originally developed under the name **Dreshion**, implements a **Co
 * **Qualitative:** Successfully preserved complex fabric patterns and handled simple hair/arm occlusions while maintaining 100% of the user's facial identity.
 * **Pre-processing:** Implemented custom segmentation masks to protect non-target regions (skin tone, hair, lower garments).
 
-### Evidence & Visual Output
-Technical proofs and visual results are archived in this repository:
-* [Technical Architecture Summary & ID Badge](./evidence/)
-* [Visual Output Examples](./examples/)
 
 ---
 © 2023 Swornim Shrestha. All Rights Reserved.
